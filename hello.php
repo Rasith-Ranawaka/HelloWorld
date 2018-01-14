@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=Cp1252">
-<title>Insert title here</title>
+<title>Test Repo</title>
 </head>
 
     <body>
